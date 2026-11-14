@@ -19,9 +19,11 @@
 
 # 그림·모델 파일
 *.png
+!/docs/examples/*.png
 *.jpg
 *.jpeg
 *.webp
+!/docs/examples/*.webp
 *.gif
 *.pdf
 *.safetensors

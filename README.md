@@ -14,6 +14,29 @@
 
 원작자는 니코다. 취미 겸 공부로 만든 실험적인 프로그램이라 설치가 쉽지 않고, 그림 품질은 모델과 캐릭터, 그림체에 따라 많이 달라진다.
 
+## 예시
+
+이 도구로 만든 만화다. 두 쪽이 나란히 있는 그림은 오른쪽이 1쪽이다.
+
+![예시 1](docs/examples/example_01.webp)
+
+![예시 2, 1~2쪽](docs/examples/example_02a.png)
+
+![예시 2, 3쪽](docs/examples/example_02b.png)
+
+![예시 3, 1~2쪽](docs/examples/example_03a.webp)
+
+![예시 3, 3쪽](docs/examples/example_03b.png)
+
+<p>
+<img src="docs/examples/example_04.webp" width="49%" alt="예시 4">
+<img src="docs/examples/example_05.webp" width="49%" alt="예시 5">
+</p>
+
+![예시 6](docs/examples/example_06.png)
+
+예시에 나오는 기존 작품 캐릭터의 권리는 각 원작자에게 있다. 비상업 2차 창작 예시로만 올린다.
+
 ## 흐름
 
 ```
@@ -132,6 +155,10 @@ Images are drawn by [ComfyUI](https://www.comfy.org/) on your own PC; the story 
 - Author: **Niko**
 - Status: an **experimental** program made as a personal hobby and study project. Setup is not easy, and image quality varies a lot by model, character and art style.
 - The UI, messages and most docs are in **Korean** only.
+
+### Examples
+
+Example comics made with this tool are shown in the [Korean section above](#예시). In two-page spreads, the right page is page 1. Characters from existing works belong to their rights holders and appear only as non-commercial fan-work examples.
 
 ### Flow
 
